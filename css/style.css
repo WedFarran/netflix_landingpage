@@ -141,7 +141,7 @@ img {
     cursor: pointer;
 }
 
-.tabs-border {
+.tab-border {
     border-bottom: var(--primary-color)4px solid;
 }
 
